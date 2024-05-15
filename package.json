@@ -1,0 +1,11 @@
+{
+  "name": "pom",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "**/*.feature"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
